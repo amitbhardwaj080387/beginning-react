@@ -1,3 +1,44 @@
-#heading {
-    color: #ff0000
+.head .logo img {
+    width: 200px;
+    height: 200px;
+} 
+
+.head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid black;
+}
+
+.nav-items > ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-items > ul > li {
+    margin: 10px;
+    padding: 10px;
+}
+.body {
+    margin-top: 10px;
+}
+
+.card-elem > .img > img {
+    width:250px;
+    height: 300px;
+}
+
+.card-container {
+    display:flex;
+}
+
+.card-elem {
+    margin-right: 10px;
+    padding: 10px;
+}
+
+.card-elem:hover {
+    border:1px solid #ccc;
 }
