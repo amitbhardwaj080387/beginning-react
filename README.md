@@ -19,3 +19,21 @@ I am studying React.Js
 - HTTPS
 - Tree shaking - remove unused code
 - Different dev and prod bundles
+
+# our food ordering app
+/**
+ * Header
+ *  - Logo
+ *  - Nav Items
+ * Body
+ *  - Search
+ *  - Restaurent cards container
+ *    - RestaurentCard
+ *     - img
+ *     - Name of restaurent, star rating, cuisine - (North Indian, South Indian), delivery   *       time
+ * Footer
+ *  - copyright
+ *  - Links
+ *  - Address
+ *  - Contact
+ */
